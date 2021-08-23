@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExamCode.iml" filepath="$PROJECT_DIR$/.idea/ExamCode.iml" />
+      <module fileurl="file://E:/[1]NureStone/fssc_prd/.idea/fssc_prd.iml" filepath="E:/[1]NureStone/fssc_prd/.idea/fssc_prd.iml" />
+    </modules>
+  </component>
+</project>
